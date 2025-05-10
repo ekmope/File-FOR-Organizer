@@ -158,5 +158,5 @@ dist/
 ## 9. Contact
 
 遇到问题或建议？欢迎通过以下方式联系：
-- 📮 Email: your.email@example.com
+- 📮 Email: 2014036853@qq.com
 - 🐛 [Issue Tracker](https://github.com/ekmope/File-FOR-Organizer/issues)
