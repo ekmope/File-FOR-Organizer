@@ -35,7 +35,7 @@
 
 ## 1. Introduction
 
-**File Organizer** 是一个智能文件自动分类工具，支持通过命令行快速整理杂乱目录。基于文件扩展名自动归类到预设文件夹（如图片、文档、代码等），提升工作效率。支持 Windows/macOS/Linux 全平台运行。
+**File Organizer** 是一个智能文件自动分类工具，支持通过命令行快速整理杂乱目录。基于文件扩展名自动归类到预设文件夹（如图片、文档、代码等）  支持 Windows/macOS/Linux 全平台运行。
 
 <div align="center">
   <img src="demo.gif" width="70%">
@@ -158,5 +158,7 @@ dist/
 ## 9. Contact
 
 遇到问题或建议？欢迎通过以下方式联系：
+Encountering problems or suggestions? Welcome to contact us through the following ways:
+
 - 📮 Email: 2014036853@qq.com
 - 🐛 [Issue Tracker](https://github.com/ekmope/File-FOR-Organizer/issues)
