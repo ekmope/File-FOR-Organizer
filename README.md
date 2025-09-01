@@ -26,10 +26,9 @@
 3. [Quick Start](#3-quick-start)
 4. [Advanced Usage](#4-advanced-usage)
 5. [Build from Source](#5-build-from-source)
-6. [Roadmap](#6-roadmap)
-7. [Contributing](#7-contributing)
-8. [License](#8-license)
-9. [Contact](#9-contact)
+6. [Contributing](#7-contributing)
+7. [License](#8-license)
+8. [Contact](#9-contact)
 
 ---
 
@@ -125,18 +124,7 @@ dist/
 
 ---
 
-## 6. Roadmap
-
-| 状态 | 功能                | 目标版本 |
-|------|---------------------|----------|
-| ✅   | 基础文件分类        | v1.0     |
-| 🚧   | 重复文件检测        | v1.2     |
-| ⏳   | 图形界面（Tkinter） | v2.0     |
-| ⏳   | 云端备份集成        | v2.1     |
-
----
-
-## 7. Contributing
+## 6. Contributing
 
 欢迎通过以下方式参与贡献:cite[6]:cite[7]：
 1. Fork 本仓库
@@ -147,7 +135,7 @@ dist/
 
 ---
 
-## 8. License
+## 7. License
 
 本项目采用 [MIT License](LICENSE)，允许商业使用和修改。核心条款包括：
 - 保留原始版权声明
@@ -155,7 +143,7 @@ dist/
 
 ---
 
-## 9. Contact
+## 8. Contact
 
 遇到问题或建议？欢迎通过以下方式联系：
 Encountering problems or suggestions? Welcome to contact us through the following ways:
